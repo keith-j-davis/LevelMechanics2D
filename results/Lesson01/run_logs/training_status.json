@@ -1,0 +1,29 @@
+{
+    "FindGoal": {
+        "checkpoints": [
+            {
+                "steps": 25006,
+                "file_path": "results\\Lesson01\\FindGoal\\FindGoal-25006.onnx",
+                "reward": 9.896964379719325,
+                "creation_time": 1659063488.6549294,
+                "auxillary_file_paths": [
+                    "results\\Lesson01\\FindGoal\\FindGoal-25006.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 25006,
+            "file_path": "results\\Lesson01\\FindGoal.onnx",
+            "reward": 9.896964379719325,
+            "creation_time": 1659063488.6549294,
+            "auxillary_file_paths": [
+                "results\\Lesson01\\FindGoal\\FindGoal-25006.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.12.0+cpu"
+    }
+}

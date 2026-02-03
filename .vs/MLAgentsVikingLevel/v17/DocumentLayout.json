@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Portfolio\\Programming\\CSE 696, Master\u0027s Capstone Project\\MLAgentsVikingLevel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A985B8E7-C294-4CAC-DD99-51F3739E84D7}|Assembly-CSharp.csproj|d:\\portfolio\\programming\\cse 696, master\u0027s capstone project\\mlagentsvikinglevel\\assets\\scripts\\traininggenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A985B8E7-C294-4CAC-DD99-51F3739E84D7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traininggenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A985B8E7-C294-4CAC-DD99-51F3739E84D7}|Assembly-CSharp.csproj|d:\\portfolio\\programming\\cse 696, master\u0027s capstone project\\mlagentsvikinglevel\\assets\\scripts\\brain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A985B8E7-C294-4CAC-DD99-51F3739E84D7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\brain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A985B8E7-C294-4CAC-DD99-51F3739E84D7}|Assembly-CSharp.csproj|d:\\portfolio\\programming\\cse 696, master\u0027s capstone project\\mlagentsvikinglevel\\assets\\scripts\\character\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A985B8E7-C294-4CAC-DD99-51F3739E84D7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A985B8E7-C294-4CAC-DD99-51F3739E84D7}|Assembly-CSharp.csproj|d:\\portfolio\\programming\\cse 696, master\u0027s capstone project\\mlagentsvikinglevel\\assets\\scripts\\character\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A985B8E7-C294-4CAC-DD99-51F3739E84D7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrainingGenerator.cs",
+              "DocumentMoniker": "D:\\Portfolio\\Programming\\CSE 696, Master\u0027s Capstone Project\\MLAgentsVikingLevel\\Assets\\Scripts\\TrainingGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrainingGenerator.cs",
+              "ToolTip": "D:\\Portfolio\\Programming\\CSE 696, Master\u0027s Capstone Project\\MLAgentsVikingLevel\\Assets\\Scripts\\TrainingGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrainingGenerator.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwDQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T05:41:05.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Brain.cs",
+              "DocumentMoniker": "D:\\Portfolio\\Programming\\CSE 696, Master\u0027s Capstone Project\\MLAgentsVikingLevel\\Assets\\Scripts\\Brain.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Brain.cs",
+              "ToolTip": "D:\\Portfolio\\Programming\\CSE 696, Master\u0027s Capstone Project\\MLAgentsVikingLevel\\Assets\\Scripts\\Brain.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Brain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T05:30:14.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "D:\\Portfolio\\Programming\\CSE 696, Master\u0027s Capstone Project\\MLAgentsVikingLevel\\Assets\\Scripts\\Character\\Activity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\Activity.cs",
+              "ToolTip": "D:\\Portfolio\\Programming\\CSE 696, Master\u0027s Capstone Project\\MLAgentsVikingLevel\\Assets\\Scripts\\Character\\Activity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\Activity.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T05:27:08.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Action.cs",
+              "DocumentMoniker": "D:\\Portfolio\\Programming\\CSE 696, Master\u0027s Capstone Project\\MLAgentsVikingLevel\\Assets\\Scripts\\Character\\Action.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\Action.cs",
+              "ToolTip": "D:\\Portfolio\\Programming\\CSE 696, Master\u0027s Capstone Project\\MLAgentsVikingLevel\\Assets\\Scripts\\Character\\Action.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\Action.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T05:26:57.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
