@@ -47,10 +47,10 @@ public class TrainingGenerator : MonoBehaviour {
         //goal_object = Instantiate(goal, new Vector3(x,3f,0f), Quaternion.identity);
         //game_object_list.Add(goal_object);
         
-        game_object_list.Add(Instantiate(food, new Vector3(-12f,20f,0f), Quaternion.identity));
-        game_object_list.Add(Instantiate(key, new Vector3(-12f,24f,0f), Quaternion.identity));
-        game_object_list.Add(Instantiate(gun, new Vector3(-2f,20f,0f), Quaternion.identity));
-        game_object_list.Add(Instantiate(armor, new Vector3(7f,15f,0f), Quaternion.identity));
+        game_object_list.Add(Instantiate(food, new Vector3(-12f,15f,0f), Quaternion.identity));
+        game_object_list.Add(Instantiate(key, new Vector3(-12f,21f,0f), Quaternion.identity));
+        game_object_list.Add(Instantiate(gun, new Vector3(-5f,20f,0f), Quaternion.identity));
+        game_object_list.Add(Instantiate(armor, new Vector3(14f,15f,0f), Quaternion.identity));
     }
     
     public GameObject GetInstance(string tag) {

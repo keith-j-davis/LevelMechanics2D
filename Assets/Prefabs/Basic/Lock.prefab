@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2114555232612568995}
   - component: {fileID: 3878318439591737855}
   m_Layer: 0
-  m_Name: Padlock
+  m_Name: Lock
   m_TagString: Lock
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
